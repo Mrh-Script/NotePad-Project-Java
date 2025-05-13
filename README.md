@@ -2,9 +2,7 @@
 
 ## 📌 Summary
 
-A lightweight, user-friendly Notepad application built using Java Swing. It includes basic editing features such as file operations, undo/redo, and styled GUI elements. Perfect for simple text editing tasks.
-
----
+This is a simple Notepad app made with Java Swing. You can type, edit, open, and save text files. It has a clean look and is easy to use. It also lets you undo and redo your changes.
 
 ## ✨ Features
 
@@ -12,21 +10,17 @@ A lightweight, user-friendly Notepad application built using Java Swing. It incl
 - Undo and Redo support via `UndoManager`
 - Cut, Copy, Paste, Delete, and Select All
 - Clean UI with Cambria font and custom color scheme
-- Scrollable text area with always-visible vertical scrollbar
 - Keyboard shortcuts for all essential functions
 
 ---
 
 ## 📸 Interface
 
-### 🖼️ Main Editor View
-<img src="img1.png" width="300"/>
+<img src="img1.png" width="400"/>
 
-### 📂 Open File Dialog
-<img src="img2.png" width="300"/>
+<img src="img2.png" width="400"/>
 
-### 💾 Save File Dialog
-<img src="img3.png" width="300"/>
+<img src="img3.png" width="400"/>
 
 ---
 
