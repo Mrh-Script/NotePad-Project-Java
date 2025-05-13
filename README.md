@@ -1,4 +1,4 @@
-# 📝 Java Swing Notepad
+# 📝 Notepad
 
 ## 📌 Summary
 
