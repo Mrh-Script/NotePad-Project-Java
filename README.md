@@ -1,4 +1,4 @@
-# 📝 Notepad
+# 📝 NotePad
 
 ## 📝 Summary
 
